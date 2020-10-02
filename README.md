@@ -1,4 +1,4 @@
-# PubG
+# PubG mobile
 
 #
 
